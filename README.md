@@ -11,3 +11,6 @@ python job
 mrjob
 1. filter product then stored into postgres and hdfs
 2. aggregate quantity transaction based on date
+
+Disclaimer:
+project ini diselesaikan apa adanya karena masih minimnya pemahaman dan pengetahuan saya tentang materi ini untuk saat ini
